@@ -8,8 +8,8 @@ public class FlowerStoreForeverApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(
-			FlowerStoreForeverApplication.class, args
-		);
+            FlowerStoreForeverApplication.class, args
+        );
     }
 
 }
