@@ -1,6 +1,6 @@
-package ucu.apps.FlowerStoreForever.decorators;
+package ucu.apps.flowerstoreforever.decorators;
 
-import ucu.apps.FlowerStoreForever.store.Item;
+import ucu.apps.flowerstoreforever.store.Item;
 
 public abstract class ItemDecorator extends Item {
 

@@ -1,4 +1,4 @@
-package ucu.apps.FlowerStoreForever.store;
+package ucu.apps.flowerstoreforever.store;
 
 import lombok.Getter;
 

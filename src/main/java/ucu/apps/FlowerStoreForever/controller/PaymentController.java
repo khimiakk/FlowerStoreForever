@@ -1,4 +1,4 @@
-package ucu.apps.FlowerStoreForever.controller;
+package ucu.apps.flowerstoreforever.controller;
 
 import java.util.List;
 

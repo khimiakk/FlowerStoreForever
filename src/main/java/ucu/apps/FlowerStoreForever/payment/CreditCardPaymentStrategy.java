@@ -1,4 +1,4 @@
-package ucu.apps.FlowerStoreForever.payment;
+package ucu.apps.flowerstoreforever.payment;
 
 public class CreditCardPaymentStrategy implements Payment {
 

@@ -1,10 +1,10 @@
-package ucu.apps.FlowerStoreForever.store;
+package ucu.apps.flowerstoreforever.store;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import ucu.apps.FlowerStoreForever.delivery.Delivery;
-import ucu.apps.FlowerStoreForever.payment.Payment;
+import ucu.apps.flowerstoreforever.delivery.Delivery;
+import ucu.apps.flowerstoreforever.payment.Payment;
 
 public class Order {
 

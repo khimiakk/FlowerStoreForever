@@ -1,9 +1,10 @@
-package ucu.apps.FlowerStoreForever.service;
+package ucu.apps.flowerstoreforever.service;
 
 import lombok.RequiredArgsConstructor;
+import ucu.apps.flowerstoreforever.repository.FlowerRepository;
+import ucu.apps.flowerstoreforever.store.Flower;
+
 import org.springframework.stereotype.Service;
-import ucu.apps.FlowerStoreForever.store.Flower;
-import ucu.apps.FlowerStoreForever.repository.FlowerRepository;
 
 import java.util.List;
 
